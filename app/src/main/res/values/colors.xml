@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#cccccc</color>
+    <color name="grey_700">#646464</color>
+    <color name="black">#000000</color>
+
+    <color name="weathertalk_light_orange">#FFC107</color>
+    <color name="weathertalk_orange">#FF9800</color>
+    <color name="weathertalk_dark_orange">#FF6D00</color>
+
+</resources>
